@@ -1,1 +1,1 @@
-function invokeFunction(fn) {return fn()}
+function justInvoke(fn) {return fn()}
